@@ -1,0 +1,6 @@
+{
+  "name": "PontoPro — Sistema de RH e Ponto Eletrônico",
+  "description": "Sistema corporativo de RH e controle de jornada (ponto eletrônico) conforme Portaria MTP 671/2021 e CLT art. 58 §1º com quiosque para tablet, espelho de ponto A4 em paisagem e exportação Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

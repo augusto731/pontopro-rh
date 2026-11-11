@@ -1,0 +1,11 @@
+# Configuração para deploy no Netlify
+
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# Redirecionamento SPA para React Router / navegação cliente
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
