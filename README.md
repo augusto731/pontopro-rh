@@ -1,3 +1,5 @@
+> **Deploy Easypanel + PostgreSQL:** veja [`EASYPANEL.md`](./EASYPANEL.md). Esta versão utiliza persistência PostgreSQL em JSONB e requer `DATABASE_URL` para iniciar.
+
 # PontoPro Enterprise — Sistema de RH e Ponto Eletrônico (Portaria MTP 671/2021)
 
 Sistema completo de controle de jornada, quiosque para tablet, espelho de ponto A4 em paisagem, banco de horas mensal com liquidação e exportação Excel.
